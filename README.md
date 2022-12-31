@@ -1,5 +1,5 @@
 <h1 align="center">E aí, sou o Diego Soares</h1>
-<h3 align="center">Brasileiro fissurado em mobile, que ama coisas novas e churrasco.</h3>
+<h3 align="center">Developer Mobile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegooliveiraa&label=Profile%20views&color=0e75b6&style=flat" alt="diegooliveiraa" /> </p>
 
