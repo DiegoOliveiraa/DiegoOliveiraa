@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegooliveiraa&label=Profile%20views&color=0e75b6&style=flat" alt="diegooliveiraa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegooliveiraa" alt="diegooliveiraa" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Atualmente, desenvolvendo em um App de Fruteira [Fruteira-dos-guri](https://github.com/DiegoOliveiraa/Fruteira-dos-guri)
+- Atualmente, Cursando 3° Grau em TI
 
 - Em busca de muito conhecimento em Kotlin **Alura, Unisinos e entre outros cursos que fiz online**
 
 - 📫 Como me encontrar? **padawangm@gmail.com / +51 9 99269440**
 
-- ⚡ Características mais evidentes **Engraçado e determinado**
+- ⚡ Características mais evidentes **Hierarquia e Disciplina**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
