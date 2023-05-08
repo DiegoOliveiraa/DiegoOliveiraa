@@ -9,7 +9,7 @@
 
 - Em busca de muito conhecimento em Kotlin **Alura, Unisinos e entre outros cursos que fiz online**
 
-- 📫 Como me encontrar? **padawangm@gmail.com / +51 9 99269440**
+- 📫 Como me encontrar? **profissional.diegooliveira@gmail.com / +51 9 99269440**
 
 - ⚡ Características mais evidentes **Hierarquia e Disciplina**
 
