@@ -15,10 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/diegooliveiraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="diegooliveiraa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diego-soares-301a79237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-soares-301a79237" height="30" width="40" /></a>
-<a href="https://instagram.com/diego_soar3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diego_soar3s" height="30" width="40" /></a>
-<a href="https://discord.gg/_diego_oliveira#0546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_diego_oliveira#0546" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
