@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Eu sou Desenvolvedor Android, atualmente, moro POA/RS<br><br>- 🔭 Atualmente faço vários projetos pessoas, desde pegos na internet ou como de ideias próprias. <br>- 📚 Faço Faculdade de TI desde 2022 - 2025<br>- ⚡ No meu tempo livro gosto de esportes, ficar com minha esposa e ler.</p>
+<p align="left">Eu sou Desenvolvedor Android, atualmente, moro POA/RS<br><br>- 🔭 Atualmente faço vários projetos pessoas, desde pegos na internet ou como de ideias próprias. <br>- 📚 Faço Faculdade de TI desde 2022 - 2025<br>- ⚡ No meu tempo livr gosto de esportes, ficar com minha esposa e ler.</p>
 
 ###
 
