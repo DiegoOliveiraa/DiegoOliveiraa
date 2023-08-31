@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 LInguagens que tenho conhecimento são:</h3>
+<h3 align="left">🛠 Linguagens que tenho conhecimento são:</h3>
 
 ###
 
